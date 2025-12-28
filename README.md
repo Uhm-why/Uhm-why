@@ -16,7 +16,7 @@ I'm currently working on the **[Boot.dev Golang -- Backend Learning Path](https:
 ## 🛠️ Completed Guided Projects
 
 - ✅ [Build a Bookbot in Python](https://github.com/Uhm-why/bookbot)
-- ✅ [Build Asteroids using Python and Pygame](https://github.com/Uhm-why/asteroids)
+- ✅ [Build Asteroids using Python and Pygame](https://github.com/Uhm-why/Asteroids)
 
 ## 🎯 Future Plans
 
