@@ -6,6 +6,10 @@ Welcome to my profile! This is where I showcase my learning journey and the proj
 
 I'm currently working on the **[Boot.dev Golang -- Backend Learning Path](https://www.boot.dev/tracks/backend-python-golang)**, building a strong foundation in backend development with Go.
 
+<p>
+  <img src="https://api.boot.dev/v1/users/public/2e79b4dc-13fe-4ddf-9c39-37b1f8e3b9ea/thumbnail">
+</p>
+
 ## 📚 Completed Courses
 
 - ✅ [Learn to Code in Python](https://www.boot.dev/courses/learn-code-python) | [Certificate](https://www.boot.dev/certificates/8db6b0c3-529f-450c-a1af-336a7f26a477)
