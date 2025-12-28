@@ -8,10 +8,10 @@ I'm currently working on the **[Boot.dev Golang -- Backend Learning Path](https:
 
 ## 📚 Completed Courses
 
-- ✅ [Learn to Code in Python](https://www.boot.dev/courses/learn-code-python) | [Certificate](https://www.boot.dev/u/shockingjump99/certificate/c5c97e41-7f9d-4c73-b1de-0c96f5f8c3ec)
-- ✅ [Learn Linux](https://www.boot.dev/courses/learn-linux) | [Certificate](https://www.boot.dev/u/shockingjump99/certificate/d2bc2a8c-e4dc-45e6-83c8-20ba9e9bcfd3)
-- ✅ [Learn Git](https://www.boot.dev/courses/learn-git) | [Certificate](https://www.boot.dev/u/shockingjump99/certificate/1e3b76c5-e1d8-4bb1-83b1-4db3f8b67c58)
-- ✅ [Learn Object Oriented Programming in Python](https://www.boot.dev/courses/learn-object-oriented-programming-python) | [Certificate](https://www.boot.dev/u/shockingjump99/certificate/9a6e8e35-8769-41f5-9a52-61a7d3d0d5e8)
+- ✅ [Learn to Code in Python](https://www.boot.dev/courses/learn-code-python) | [Certificate](https://www.boot.dev/certificates/8db6b0c3-529f-450c-a1af-336a7f26a477)
+- ✅ [Learn Linux](https://www.boot.dev/courses/learn-linux) | [Certificate](https://www.boot.dev/certificates/badba154-8b0f-45c9-bc0c-ebe14848ae0a)
+- ✅ [Learn Git](https://www.boot.dev/courses/learn-git) | [Certificate](https://www.boot.dev/certificates/6adf6cc9-1633-451f-8174-41c1f38a6360)
+- ✅ [Learn Object Oriented Programming in Python](https://www.boot.dev/courses/learn-object-oriented-programming-python) | [Certificate](https://www.boot.dev/certificates/c9de01c0-243f-4876-8d9a-f96a38807230)
 
 ## 🛠️ Completed Guided Projects
 
