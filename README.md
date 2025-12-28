@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Uhm-why/Uhm-why** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! This is where I showcase my learning journey and the projects I work on.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on the **Boot.dev Golang -- Backend Learning Path**, building a strong foundation in backend development with Go.
+
+## 📚 Completed Courses
+
+- ✅ Learn to Code in Python
+- ✅ Learn Linux
+- ✅ Learn Git
+- ✅ Learn Object Oriented Programming in Python
+
+## 🛠️ Completed Guided Projects
+
+- ✅ Build a Bookbot in Python
+- ✅ Build Asteroids using Python and Pygame
+
+## 🎯 Future Plans
+
+I'm planning to create additional personal projects as I continue my learning journey. Stay tuned for updates!
