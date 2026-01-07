@@ -14,6 +14,7 @@ I'm currently working on the **[Boot.dev Golang -- Backend Learning Path](https:
 - ✅ [Learn Linux](https://www.boot.dev/courses/learn-linux) | [Certificate](https://www.boot.dev/certificates/badba154-8b0f-45c9-bc0c-ebe14848ae0a)
 - ✅ [Learn Git](https://www.boot.dev/courses/learn-git) | [Certificate](https://www.boot.dev/certificates/6adf6cc9-1633-451f-8174-41c1f38a6360)
 - ✅ [Learn Object Oriented Programming in Python](https://www.boot.dev/courses/learn-object-oriented-programming-python) | [Certificate](https://www.boot.dev/certificates/c9de01c0-243f-4876-8d9a-f96a38807230)
+- ✅ [Learn Functional Programming in Python](https://www.boot.dev/courses/learn-functional-programming-python) | [Certificate](https://www.boot.dev/certificates/a634165a-a510-4c09-b639-5c2ee77e968b)
 
 ## 🛠️ Completed Guided Projects
 
